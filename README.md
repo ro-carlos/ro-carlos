@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ro-carlos&label=Profile%20views&color=0e75b6&style=flat" alt="ro-carlos" /> </p>
 
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning **Playwright**
 
-- 🤝 I’m looking for help with **Cypress**
+- 🤝 I’m looking for help with **Maestro Framework**
 
 - 💬 Ask me about **Angular, Ionic, Aws, Automation**
 
