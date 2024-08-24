@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Maestro Framework**
 
-- 💬 Ask me about **Angular, Ionic, Aws, Automation**
+- 💬 Ask me about **Selenium, Cypress, Testing, AWS**
 
 - ⚡ Fun fact **I am a Real Madrid supporter**
 
